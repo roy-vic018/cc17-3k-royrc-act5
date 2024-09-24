@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="first_image">Casual Day at Baguio in a Pine Forest</string>
+    <string name="second_image">Evening Memories at the Family Homestead </string>
+    <string name="third_image">Adventure Awaits on the Scenic Mountain Trail </string>
+    <string name="fourth_image">Capturing Moments in a Quiet Art Nook</string>
+    <string name="fifth_image">Colors and Imagination in the Art Scene</string>
+    <string name="author">Rovic Roy</string>
+    <string name="year">2024</string>
+</resources>
